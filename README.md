@@ -1,4 +1,4 @@
-# BCrypt Libraty for Windows XP
+# BCrypt Library for Windows XP
 This is an attempt to port WINE's (ver 10.10) BCrypt library to Windows XP.
 
 For now it works, but not stable, so any help is welcome.
